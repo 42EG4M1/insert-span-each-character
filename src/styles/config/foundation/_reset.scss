@@ -25,10 +25,9 @@ article, aside, details, figcaption, figure,footer, header, menu, nav, section, 
 }
 
 body {
-  line-height: $line-height;
-  font-size: $font-size;
-  font-family: $font-family;
-  text-align: left;
+  line-height: 1.7;
+  font-size: 16px;
+  font-family: "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", "メイリオ", Meiryo, sans-serif;;
   color: #fff;
   background: #111;
 }

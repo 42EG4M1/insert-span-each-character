@@ -3,16 +3,12 @@
 // ====================
 
 //== config-settings
-@import "config/settings/_setting";
-@import "config/settings/_fontSet";
-@import "config/settings/_mediaQuery";
 
 //== config-foundation
 @import "config/foundation/_webfonts";
 @import "config/foundation/_reset";
 
 //== layout
-@import "layout/_main";
 
 //== project   ---prefix .p-
 @import "project/_item";
