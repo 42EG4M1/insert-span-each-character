@@ -1,5 +1,5 @@
 # Insert span each character
-My js modules.
+My JS modules.
 
 ## Require
 node.js
@@ -29,6 +29,15 @@ node.js
     # build
     npm run dev     # build for development
     npm run build   # build for production
+
+## git comment
+
+    - Fix: Bug fixes.
+    - Add: Add a new files and functions.
+    - Modify: Fixing features that are not bugs.
+    - Clean: Organize by refactoring etc.
+    - Remove: delete files.
+    - Update: Update files.
 
 ## License
 MIT License
