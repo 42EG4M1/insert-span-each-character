@@ -8,8 +8,7 @@
 
 import InsertSpanEachCharacter from './modules/InsertSpanEachCharacter';
 
-const target = document.getElementById('js-insertSpan');
-const isec = new InsertSpanEachCharacter(target, {
+const isec = new InsertSpanEachCharacter(document.getElementById('js-insertSpan'), {
   margin: '24px',
   space: '40px',
 });

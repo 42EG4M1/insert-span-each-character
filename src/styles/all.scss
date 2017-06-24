@@ -2,13 +2,9 @@
 // * all
 // ====================
 
-//== config-settings
-
 //== config-foundation
 @import "config/foundation/_webfonts";
 @import "config/foundation/_reset";
-
-//== layout
 
 //== project   ---prefix .p-
 @import "project/_item";
